@@ -1,13 +1,13 @@
 # BOT
 
 ## Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tiger7815/tecttoovvvv/blob/main/tecttoovvvv.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/yogeshnew5exy/Textd222ownale.ipynb)
 
 #
 #
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/tiger7815/tecttoovvvv">
+<a href="https://heroku.com/deploy?template=https://github.com/yogeshnew5exy/Textd222ownale">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
